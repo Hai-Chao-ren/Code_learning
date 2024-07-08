@@ -1,2 +1,19 @@
 ## Record learning progress every week
 2024.5.18-2024.5.25
+
+2024.6.16-2024.6.23
+收集数据构建科室知识图谱
+department_graph.ipynb
+
+2024.6.23-2024.6.30
+看论文，寻找毕设题目（暑假期间确定题目）
+（1）基于LLMs的旅游政策解读与评估框架
+（2）基于LLMs的实时旅游推荐系统
+
+2024.7.1-2024.7.6
+回家，母亲生病。
+修改会议论文格式，完善后投稿。
+
+2024.7.7-2024.7.13
+Adaptive-RAG：（原文阅读+代码梳理）
+langgraph_adaptive_rag_cohere.ipynb
