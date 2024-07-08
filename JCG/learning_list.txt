@@ -1,2 +1,6 @@
 ## Record learning progress every week
-2024.5.18-2024.5.25
+2024.7.8--2024.7.14
+list:
+1、adaptive RAG  ,find the binary judge  sometimes occurs TypeError ,because the prompt is not particularly suitable. 
+   Then use the  while loop reslove the problem.
+
