@@ -3,4 +3,4 @@
 list:
 1、adaptive RAG  ,find the binary judge  sometimes occurs TypeError ,because the prompt is not particularly suitable. 
    Then use the  while loop reslove the problem.
-
+2、LangGraph quick start, implement the basic process, set up nodes and edges, added interrupts and memories, and updated state.
