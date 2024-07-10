@@ -23,3 +23,4 @@ finds:
 (3) llm_fallback部分为结果直接输出（tool_calls=False）
 2.Revise paper：基于预训练大语言模型的实体关系抽取框架及其应用
   突出创新点：框架的通用性，可扩展性，优越性
+3.langchain：structured_data、tool_call、
