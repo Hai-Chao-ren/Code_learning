@@ -1,2 +1,5 @@
 ## Record learning progress every week
 2024.7.8--2024.7.15
+1.回顾python相关知识
+2.学习大模型基础内容
+3.7.10-7.12家中有事，没在家
