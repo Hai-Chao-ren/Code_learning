@@ -41,8 +41,8 @@ find：
 2024.7.21-2024.7.27
 1.Apply for the 《国家社科后期资助项目》 and submit materials
 2.Revise the paper (fourth minor revision)
-3.Learn langchain expression language  
+3.Learn langchain expression language,including stream_runnables,structured_output,sub_description,tool_calls  
 
 2024.7.28-2024.8.3
-1.Learn runnable source code - base, understand runnable, RunnableSerializable, RunnableSequence, RunnableParallel, RunnableGenerator, RunnableLambda, etc.
+1.Learn runnable source code - base.ipynb, understand runnable, RunnableSerializable, RunnableSequence, RunnableParallel, RunnableGenerator, RunnableLambda, etc.
 2.Learn langchain expression language，including chain, sream,parallel, function,pass through,configure,memory,sub-chains,dynamic chain,inspect,fallback,
