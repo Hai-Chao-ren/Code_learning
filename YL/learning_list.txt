@@ -39,6 +39,10 @@ find：
 3.论文返修，意见致命（暂无解决思路）
 
 2024.7.21-2024.7.27
-1.《国家社科后期资助项目》申报，并递送材料
-2.修改论文（第四次小修）
-3.
+1.Apply for the 《国家社科后期资助项目》 and submit materials
+2.Revise the paper (fourth minor revision)
+3.Learn langchain expression language  
+
+2024.7.28-2024.8.3
+1.Learn runnable source code - base, understand runnable, RunnableSerializable, RunnableSequence, RunnableParallel, RunnableGenerator, RunnableLambda, etc.
+2.Learn langchain expression language，including chain, sream,parallel, function,pass through,configure,memory,sub-chains,dynamic chain,inspect,fallback,
